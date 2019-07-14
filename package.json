@@ -1,0 +1,11 @@
+{
+  "name": "jer-wedding-photo-downloader",
+  "version": "1.0.0",
+  "description": "Downloads wedding photos.",
+  "main": "index.js",
+  "author": "Tristan Reischl",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "1.18.2"
+  }
+}
